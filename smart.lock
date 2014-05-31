@@ -15,8 +15,8 @@
       },
       "contact": {
         "git": "https://github.com/udondan/meteor-contact.git",
-        "tag": "v0.1.6",
-        "commit": "e4d0e9eee1525d1e7222afe11a24f3b997457edd"
+        "tag": "v0.2.0",
+        "commit": "df54894391095c325845b84913b73d1ec29de335"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
