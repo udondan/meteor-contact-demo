@@ -1,8 +1,8 @@
 {
   "packages": {
     "bootstrap3-less": {},
-    "contact": {},
     "iron-router": {},
-    "handlebars-server": {}
+    "handlebars-server": {},
+    "contact": {}
   }
 }

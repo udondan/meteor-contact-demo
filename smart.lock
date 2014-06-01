@@ -3,20 +3,15 @@
   "dependencies": {
     "basePackages": {
       "bootstrap3-less": {},
-      "contact": {},
       "iron-router": {},
-      "handlebars-server": {}
+      "handlebars-server": {},
+      "contact": {}
     },
     "packages": {
       "bootstrap3-less": {
         "git": "https://github.com/eprochasson/bootstrap3-less",
         "tag": "v0.1.9",
         "commit": "5c812c4d7ce72917a065f0424c3cf54e5ff2d16a"
-      },
-      "contact": {
-        "git": "https://github.com/udondan/meteor-contact.git",
-        "tag": "v0.2.0",
-        "commit": "df54894391095c325845b84913b73d1ec29de335"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
@@ -28,15 +23,20 @@
         "tag": "v1.2.0",
         "commit": "1b72c4e9d82af66293e50be4516c487d15d97464"
       },
-      "meteor-nodemailer": {
-        "git": "https://github.com/Termina1/meteor-nodemailer.git",
-        "tag": "v0.1.0",
-        "commit": "ae9dbdac56b27bb9bd443510b1e2e97336a95fe5"
+      "contact": {
+        "git": "https://github.com/udondan/meteor-contact.git",
+        "tag": "v0.3.1",
+        "commit": "1b8076f5820e4af8dc8827eafc0e5e1a4e36cbd3"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "tag": "v0.2.4",
         "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      },
+      "meteor-nodemailer": {
+        "git": "https://github.com/Termina1/meteor-nodemailer.git",
+        "tag": "v0.1.0",
+        "commit": "ae9dbdac56b27bb9bd443510b1e2e97336a95fe5"
       }
     }
   }

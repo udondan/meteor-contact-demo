@@ -11,4 +11,3 @@ Router.map(function() {
     }
   });
 });
-

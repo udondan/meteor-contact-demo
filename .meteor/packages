@@ -5,8 +5,8 @@
 
 standard-app-packages
 bootstrap3-less
-contact
 iron-router
 handlebars-server
 less
 coffeescript
+contact
